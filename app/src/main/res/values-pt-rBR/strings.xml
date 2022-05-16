@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pedra, papel e tesoura</string>
+    <string name="tied">EMPATE!</string>
+    <string name="victory">VOCÊ GANHOU!</string>
+    <string name="defeat">VOCÊ PERDEU!</string>
+    <string name="score">Pontuação</string>
+    <string name="new_game">Novo jogo</string>
+</resources>

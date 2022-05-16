@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock, paper and scissors</string>
+    <string name="tied">TIED!</string>
+    <string name="victory">VICTORY!</string>
+    <string name="defeat">DEFEAT!</string>
+    <string name="score">Score</string>
+    <string name="new_game">New game</string>
+</resources>
