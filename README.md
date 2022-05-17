@@ -1,5 +1,5 @@
 # Pedra_papel_e_tesoura
-Jogo Pedra, papel e tesoura
+Jogo pedra, papel e tesoura
 
 Se trata de um aplicativo que simula o jogo "Pedra, papel e tesoura", onde o usuário escolhe uma dessas opções e o sistema realiza um sorteio para selecionar a outra opção. E assim exibe para o usuário o resultado da jogada com a pontuação atual, que fica salva e só é resetada quando o usuário decide iniciar um novo jogo através de um menu.
 
