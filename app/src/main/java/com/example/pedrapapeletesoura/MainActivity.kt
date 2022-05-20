@@ -13,10 +13,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun play(view: View){
-        val img = findViewById<ImageView>(view.id)
-        if (!img.isEnabled)
-            return
-
         val escolha = view.tag.toString().toInt()
 
         val i = Intent(this, Resultado::class.java)
